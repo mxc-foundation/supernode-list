@@ -25,7 +25,7 @@
     "logo": "https://ausn.matchx.io/branding.png"
   },
   "DU IOT": {
-    "region": "Asia",
+    "region": "Test",
     "url": "https://supernode.iot-ducapital.net",
     "logo": "https://supernode.iot-ducapital.net/branding.png"
   },
@@ -35,7 +35,7 @@
     "logo": "https://ussn.matchx.iot-ducapitalo/branding.png"
   },
   "Sejong": {
-    "region": "Korea",
+    "region": "Test",
     "url": "https://sn.parkingclub.co.kr/",
     "logo": "https://sn.parkingclub.co.kr/branding.png"
   },
