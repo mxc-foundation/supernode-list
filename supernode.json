@@ -36,7 +36,7 @@
   },
   "Sejong": {
     "region": "Test",
-    "url": "https://sn.parkingclub.co.kr/",
+    "url": "https://sn.parkingclub.co.kr",
     "logo": "https://sn.parkingclub.co.kr/branding.png"
   },
   "MXCtest": {
@@ -48,5 +48,10 @@
     "region": "Test",
     "url": "https://lora.test.cloud.mxc.org",
     "logo": "https://lora.test.cloud.mxc.org/branding.png"
+  },
+  "MXCChina": {
+    "region": "Test",
+    "url": "https://test.china.mxc.org",
+    "logo": "https://test.china.mxc.org/branding.png"
   }
 }
