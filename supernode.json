@@ -2,27 +2,32 @@
   "Enlink": {
     "region": "Korea",
     "url": "https://lora.rosanetworks.com",
-    "logo": "https://lora.rosanetworks.com/branding.png"
+    "logo": "https://lora.rosanetworks.com/branding.png",
+    "status":"online"
   },
   "XY": {
     "region": "China",
     "url": "https://mxcxy.com",
-    "logo": "https://mxcxy.com/branding.png"
+    "logo": "https://mxcxy.com/branding.png",
+    "status":"online"
   },
   "Huaweitech": {
     "region": "China",
     "url": "https://lora.hunanhuaweikeji.com",
-    "logo": "https://lora.hunanhuaweikeji.com/branding.png"
+    "logo": "https://lora.hunanhuaweikeji.com/branding.png",
+    "status":"online"
   },
   "MatchX EU": {
     "region": "Europe",
     "url": "https://lora.supernode.matchx.io",
-    "logo": "https://lora.supernode.matchx.io/branding.png"
+    "logo": "https://lora.supernode.matchx.io/branding.png",
+    "status":"online"
   },
   "MatchX AU": {
     "region": "Oceania",
     "url": "https://ausn.matchx.io",
-    "logo": "https://ausn.matchx.io/branding.png"
+    "logo": "https://ausn.matchx.io/branding.png",
+    "status":"online"
   },
   "DU IOT": {
     "region": "Asia",
@@ -42,16 +47,19 @@
   "MXCtest": {
     "region": "Test",
     "url": "https://lora.build.cloud.mxc.org",
-    "logo": "https://lora.build.cloud.mxc.org/branding.png"
+    "logo": "https://lora.build.cloud.mxc.org/branding.png",
+    "status":"online"
   },
   "MXCbuild": {
     "region": "Test",
     "url": "https://lora.test.cloud.mxc.org",
-    "logo": "https://lora.test.cloud.mxc.org/branding.png"
+    "logo": "https://lora.test.cloud.mxc.org/branding.png",
+    "status":"online"
   },
   "MXCChina": {
     "region": "Test",
     "url": "https://test.china.mxc.org",
-    "logo": "https://test.china.mxc.org/branding.png"
+    "logo": "https://test.china.mxc.org/branding.png",
+    "status":"maintenance"
   }
 }
