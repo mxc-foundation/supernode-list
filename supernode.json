@@ -32,7 +32,8 @@
   "DU IOT": {
     "region": "Asia",
     "url": "https://supernode.iot-ducapital.net",
-    "logo": "https://supernode.iot-ducapital.net/branding.png"
+    "logo": "https://supernode.iot-ducapital.net/branding.png",
+    "status":"online"
   },
   "MatchX US": {
     "region": "America",
