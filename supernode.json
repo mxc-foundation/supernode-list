@@ -37,12 +37,14 @@
   "MatchX US": {
     "region": "America",
     "url": "https://ussn.matchx.io",
-    "logo": "https://ussn.matchx.io/branding.png"
+    "logo": "https://ussn.matchx.io/branding.png",
+    "status":"maintenance"
   },
   "Sejong": {
     "region": "Korea",
     "url": "https://k-supernode.com",
-    "logo": "https://k-supernode.com/branding.png"
+    "logo": "https://k-supernode.com/branding.png",
+    "status":"maintenance"
   },
   "MXCtest": {
     "region": "Test",
