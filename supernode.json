@@ -39,7 +39,7 @@
     "region": "America",
     "url": "https://ussn.matchx.io",
     "logo": "https://ussn.matchx.io/branding.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Sejong": {
     "region": "Korea",
@@ -63,6 +63,6 @@
     "region": "Test",
     "url": "https://test.china.mxc.org",
     "logo": "https://test.china.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   }
 }
