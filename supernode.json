@@ -49,14 +49,14 @@
   },
   "MXCtest": {
     "region": "Test",
-    "url": "https://lora.build.cloud.mxc.org",
-    "logo": "https://lora.build.cloud.mxc.org/branding.png",
+    "url": "https://lora.test.cloud.mxc.org",
+    "logo": "https://lora.test.cloud.mxc.org/branding.png",
     "status":"online"
   },
   "MXCbuild": {
     "region": "Test",
-    "url": "https://lora.test.cloud.mxc.org",
-    "logo": "https://lora.test.cloud.mxc.org/branding.png",
+    "url": "https://lora.build.cloud.mxc.org",
+    "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "status":"online"
   },
   "MXCChina": {
