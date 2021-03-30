@@ -59,6 +59,12 @@
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "status":"online"
   },
+    "MXCbuild2": {
+    "region": "Test",
+    "url": "https://build2.cloud.mxc.org",
+    "logo": "https://build2.cloud.mxc.org/branding.png",
+    "status":"online"
+  },
   "MXCChina": {
     "region": "Test",
     "url": "https://test.china.mxc.org",
