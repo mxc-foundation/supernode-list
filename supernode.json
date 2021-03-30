@@ -59,7 +59,7 @@
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "status":"online"
   },
-    "MXCbuild2": {
+  "MXCbuild2": {
     "region": "Test",
     "url": "https://build2.cloud.mxc.org",
     "logo": "https://build2.cloud.mxc.org/branding.png",
