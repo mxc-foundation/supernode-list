@@ -51,7 +51,7 @@
     "region": "Test",
     "url": "https://lora.test.cloud.mxc.org",
     "logo": "https://lora.test.cloud.mxc.org/branding.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCbuild": {
     "region": "Test",
