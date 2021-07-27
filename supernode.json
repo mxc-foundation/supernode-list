@@ -3,14 +3,14 @@
     "region": "Korea",
     "url": "https://lora.rosanetworks.com",
     "logo": "https://lora.rosanetworks.com/branding.png",
-    "darkLogo: "https://lora.rosanetworks.com/branding_dark.png",
+    "darkLogo": "https://lora.rosanetworks.com/branding_dark.png",
     "status":"online"
   },
   "XY": {
     "region": "China",
     "url": "https://mxcxy.com",
     "logo": "https://mxcxy.com/branding.png",
-    "darkLogo: "https://mxcxy.com/branding_dark.png",
+    "darkLogo": "https://mxcxy.com/branding_dark.png",
     "status":"online"
   },
   "Huaweitech": {
