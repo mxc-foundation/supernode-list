@@ -25,7 +25,7 @@
     "url": "https://lora.supernode.matchx.io",
     "logo": "https://lora.supernode.matchx.io/branding.png",
     "darkLogo": "https://lora.supernode.matchx.io/branding_dark.png",
-    "status": "online"
+    "status": "maintenance"
   },
   "MatchX AU": {
     "region": "Oceania",
@@ -46,7 +46,7 @@
     "url": "https://ussn.matchx.io",
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "Sejong": {
     "region": "Korea",
