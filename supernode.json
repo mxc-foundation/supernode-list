@@ -25,14 +25,7 @@
     "url": "https://lora.supernode.matchx.io",
     "logo": "https://lora.supernode.matchx.io/branding.png",
     "darkLogo": "https://lora.supernode.matchx.io/branding_dark.png",
-    "status": "online"
-  },
-  "MatchX AU": {
-    "region": "Oceania",
-    "url": "https://ausn.matchx.io",
-    "logo": "https://ausn.matchx.io/branding.png",
-    "darkLogo": "https://ausn.matchx.io/branding.png",
-    "status":"maintenance"
+    "status": "maintenance"
   },
   "DU IOT": {
     "region": "Asia",
