@@ -15,7 +15,7 @@ For example:
 Here we update latest version and latest supported version of DataDash app in *latest_app_version.json*.
 
     {
-        "_comment": "Implemented in DataDash app in v2.0.4",
+        "_comment": "First implemented in DataDash app in v2.0.5, so feature will work for values 'version' >= 2.0.5",
         "latest_app_version": {
             "version": "2.0.1",
              "message": "latest version test"
