@@ -30,4 +30,4 @@ When DataDash app starts, it checks if currently running version of the app is b
 
 It also check if currently running version of the app is below **latest_supported_app_version.version**, in which case the app shows a blocking page with **latest_supported_app_version.message**, and user must update the app.
 
-This feature was implemented in DataDash v2.0.4, therefore **latest_app_version.version** and **latest_supported_app_version.version** have to be at at minimum v.2.0.4.
+This feature is first implemented in DataDash v2.0.5, therefore **latest_app_version.version** and **latest_supported_app_version.version** have to be at at minimum v.2.0.5.
