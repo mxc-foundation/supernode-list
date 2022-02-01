@@ -32,7 +32,7 @@
     "url": "https://supernode.iot-ducapital.net",
     "logo": "https://supernode.iot-ducapital.net/branding.png",
     "darkLogo": "https://supernode.iot-ducapital.net/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MatchX US": {
     "region": "America",
@@ -46,7 +46,7 @@
     "url": "https://k-supernode.com",
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCtest": {
     "region": "Test",
