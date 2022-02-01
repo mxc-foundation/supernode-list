@@ -11,14 +11,14 @@
     "url": "https://mxcxy.com",
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "Huaweitech": {
     "region": "China",
     "url": "https://lora.hunanhuaweikeji.com",
     "logo": "https://lora.hunanhuaweikeji.com/branding.png",
     "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "MatchX EU": {
     "region": "Europe",
