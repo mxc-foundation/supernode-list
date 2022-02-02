@@ -2,10 +2,10 @@
   "_comment": "First implemented in DataDash app in v2.0.5, so feature will work for values 'version' >= 2.0.5",
   "latest_app_version": {
     "version": "2.0.1",
-    "message": "latest version test"
+    "message": "A new version of DataDash is available now. We recommend you update to the latest version."
   },
   "latest_supported_app_version": {
     "version": "2.0.0",
-    "message": "latest supported version test"
+    "message": "This version of the DataDash is no longer supported. Please update to the latest version."
   }
 }
