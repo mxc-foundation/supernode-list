@@ -11,21 +11,21 @@
     "url": "https://mxcxy.com",
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Huaweitech": {
     "region": "China",
     "url": "https://lora.hunanhuaweikeji.com",
     "logo": "https://lora.hunanhuaweikeji.com/branding.png",
     "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MatchX EU": {
     "region": "Europe",
     "url": "https://lora.supernode.matchx.io",
     "logo": "https://lora.supernode.matchx.io/branding.png",
     "darkLogo": "https://lora.supernode.matchx.io/branding_dark.png",
-    "status": "maintenance"
+    "status": "online"
   },
   "DU IOT": {
     "region": "Asia",
@@ -39,14 +39,14 @@
     "url": "https://ussn.matchx.io",
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Sejong": {
     "region": "Korea",
     "url": "https://k-supernode.com",
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCtest": {
     "region": "Test",
@@ -74,6 +74,6 @@
     "url": "https://test.china.mxc.org",
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   }
 }
