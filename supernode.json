@@ -67,7 +67,7 @@
     "url": "https://build2.cloud.mxc.org",
     "logo": "https://build2.cloud.mxc.org/branding.png",
     "darkLogo": "https://build2.cloud.mxc.org/branding.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCChina": {
     "region": "Test",
