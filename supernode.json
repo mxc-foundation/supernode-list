@@ -53,27 +53,27 @@
     "url": "https://lora.test.cloud.mxc.org",
     "logo": "https://lora.test.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.test.cloud.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCbuild": {
     "region": "Test",
     "url": "https://lora.build.cloud.mxc.org",
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.build.cloud.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCbuild2": {
     "region": "Test",
     "url": "https://build2.cloud.mxc.org",
     "logo": "https://build2.cloud.mxc.org/branding.png",
     "darkLogo": "https://build2.cloud.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCChina": {
     "region": "Test",
     "url": "https://test.china.mxc.org",
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding.png",
-    "status":"maintenance"
+    "status":"online"
   }
 }
