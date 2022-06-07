@@ -4,49 +4,49 @@
     "url": "https://lora.rosanetworks.com",
     "logo": "https://lora.rosanetworks.com/branding.png",
     "darkLogo": "https://lora.rosanetworks.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "XY Pool": {
     "region": "China",
     "url": "https://mxcxy.com",
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Huawei Tech": {
     "region": "China",
     "url": "https://lora.hunanhuaweikeji.com",
     "logo": "https://lora.hunanhuaweikeji.com/branding.png",
     "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MatchX": {
     "region": "Europe",
     "url": "https://lora.supernode.matchx.io",
     "logo": "https://lora.supernode.matchx.io/branding.png",
     "darkLogo": "https://lora.supernode.matchx.io/branding_dark.png",
-    "status": "maintenance"
+    "status": "online"
   },
   "DU IoT": {
     "region": "Asia",
     "url": "https://supernode.iot-ducapital.net",
     "logo": "https://supernode.iot-ducapital.net/branding.png",
     "darkLogo": "https://supernode.iot-ducapital.net/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Huobi Pool": {
     "region": "America",
     "url": "https://ussn.matchx.io",
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "Sejong Solutech": {
     "region": "Korea",
     "url": "https://k-supernode.com",
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCtest": {
     "region": "Test",
