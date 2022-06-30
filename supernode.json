@@ -29,10 +29,10 @@
   },
   "DU IoT": {
     "region": "Asia",
-    "url": "https://supernode.iot-ducapital.net",
-    "logo": "https://supernode.iot-ducapital.net/branding.png",
-    "darkLogo": "https://supernode.iot-ducapital.net/branding_dark.png",
-    "status":"maintenance"
+    "url": "https://duiot.net",
+    "logo": "https://duiot.net/branding.png",
+    "darkLogo": "https://duiot.net/branding_dark.png",
+    "status":"online"
   },
   "Huobi Pool": {
     "region": "America",
