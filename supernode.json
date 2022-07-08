@@ -76,4 +76,11 @@
     "darkLogo": "https://test.china.mxc.org/branding_dark.png",
     "status":"online"
   }
+  "MXCChina": {
+    "region": "Test",
+    "url": "https://wanshipool.com",
+    "logo": "https://wanshipool.com/branding.png",
+    "darkLogo": "https://wanshipool.com/branding_dark.png",
+    "status":"online"
+  }
 }
