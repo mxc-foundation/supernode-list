@@ -6,6 +6,13 @@
     "darkLogo": "https://lora.rosanetworks.com/branding_dark.png",
     "status":"maintenance"
   },
+  "EnLink-New": {
+    "region": "Test",
+    "url": "https://rosa-iot.org",
+    "logo": "https://rosa-iot.org/branding.png",
+    "darkLogo": "https://rosa-iot.org/branding_dark.png",
+    "status":"online"
+  },
   "XY Pool": {
     "region": "China",
     "url": "https://mxcxy.com",
