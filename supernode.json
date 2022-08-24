@@ -60,7 +60,7 @@
     "url": "https://lora.build.cloud.mxc.org",
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.build.cloud.mxc.org/branding_dark.png",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCbuild2": {
     "region": "Test",
