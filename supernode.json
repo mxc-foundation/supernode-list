@@ -27,6 +27,13 @@
     "darkLogo": "https://lora.supernode.matchx.io/branding_dark.png",
     "status": "maintenance"
   },
+  "MatchX-New": {
+    "region": "Test",
+    "url": "https://eusn.matchx.io",
+    "logo": "https://eusn.matchx.io/branding.png",
+    "darkLogo": "https://eusn.matchx.io/branding_dark.png",
+    "status": "online"
+  },
   "DU IoT": {
     "region": "Asia",
     "url": "https://duiot.net",
