@@ -71,7 +71,7 @@
   },
   "MXCChina": {
     "region": "Test",
-    "url": "https://test.china.mxc.org",
+    "url": "https://lora.test.cloud.mxc.org",
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding_dark.png",
     "status":"online"
