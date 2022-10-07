@@ -70,6 +70,13 @@
     "darkLogo": "https://build2.cloud.mxc.org/branding_dark.png",
     "status":"online"
   },
+  "MXCbuild3": {
+    "region": "Test",
+    "url": "https://build3.cloud.mxc.org",
+    "logo": "https://build3.cloud.mxc.org/branding.png",
+    "darkLogo": "https://build3.cloud.mxc.org/branding_dark.png",
+    "status":"online"
+  },
   "MXCChina": {
     "region": "Test",
     "url": "https://test.china.mxc.org",
