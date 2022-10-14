@@ -4,7 +4,7 @@
     "url": "https://rosa-iot.org",
     "logo": "https://rosa-iot.org/branding.png",
     "darkLogo": "https://rosa-iot.org/branding_dark.png",
-    "frequency_plan": "KR920/KR920-923",
+    "frequencyPlan": "KR920/KR920-923",
     "status":"online"
   },
   "XY Pool": {
@@ -12,7 +12,7 @@
     "url": "https://mxcxy.com",
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
-    "frequency_plan": "CN470/CN470-510",
+    "frequencyPlan": "CN470/CN470-510",
     "status":"online"
   },
   "Huawei Tech": {
@@ -20,7 +20,7 @@
     "url": "https://lora.hunanhuaweikeji.com",
     "logo": "https://lora.hunanhuaweikeji.com/branding.png",
     "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
-    "frequency_plan": "CN470/CN470-510",
+    "frequencyPlan": "CN470/CN470-510",
     "status":"online"
   },
   "MatchX": {
@@ -28,7 +28,7 @@
     "url": "https://eusn.matchx.io",
     "logo": "https://eusn.matchx.io/branding.png",
     "darkLogo": "https://eusn.matchx.io/branding_dark.png",
-    "frequency_plan": "EU868/EU863-870",
+    "frequencyPlan": "EU868/EU863-870",
     "status": "online"
   },
   "DU IoT": {
@@ -36,7 +36,7 @@
     "url": "https://duiot.net",
     "logo": "https://duiot.net/branding.png",
     "darkLogo": "https://duiot.net/branding_dark.png",
-    "frequency_plan": "AS923/AS923-1",
+    "frequencyPlan": "AS923/AS923-1",
     "status":"online"
   },
   "Huobi Pool": {
@@ -44,7 +44,7 @@
     "url": "https://ussn.matchx.io",
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
-    "frequency_plan": "US915/US902-928",
+    "frequencyPlan": "US915/US902-928",
     "status":"online"
   },
   "Sejong Solutech": {
@@ -52,7 +52,7 @@
     "url": "https://k-supernode.com",
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
-    "frequency_plan": "KR920/KR920-923",
+    "frequencyPlan": "KR920/KR920-923",
     "status":"online"
   },
   "MXCtest": {
@@ -60,7 +60,7 @@
     "url": "https://lora.test.cloud.mxc.org",
     "logo": "https://lora.test.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.test.cloud.mxc.org/branding_dark.png",
-    "frequency_plan": "Frequency MXCtest",
+    "frequencyPlan": "Frequency MXCtest",
     "status":"online"
   },
   "MXCbuild": {
@@ -68,7 +68,7 @@
     "url": "https://lora.build.cloud.mxc.org",
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.build.cloud.mxc.org/branding_dark.png",
-    "frequency_plan": "Frequency MXCbuild",
+    "frequencyPlan": "Frequency MXCbuild",
     "status":"online",
     "captchaDisabled":true
   },
@@ -77,7 +77,7 @@
     "url": "https://build2.cloud.mxc.org",
     "logo": "https://build2.cloud.mxc.org/branding.png",
     "darkLogo": "https://build2.cloud.mxc.org/branding_dark.png",
-    "frequency_plan": "Frequency MXCbuild2",
+    "frequencyPlan": "Frequency MXCbuild2",
     "status":"online"
   },
   "MXCbuild3": {
@@ -85,7 +85,7 @@
     "url": "https://build3.cloud.mxc.org",
     "logo": "https://build3.cloud.mxc.org/branding.png",
     "darkLogo": "https://build3.cloud.mxc.org/branding_dark.png",
-    "frequency_plan": "Frequency MXCbuild3",
+    "frequencyPlan": "Frequency MXCbuild3",
     "status":"online"
   },
   "MXCChina": {
@@ -93,7 +93,7 @@
     "url": "https://test.china.mxc.org",
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding_dark.png",
-    "frequency_plan": "Frequency MXCChina",
+    "frequencyPlan": "Frequency MXCChina",
     "status":"online"
   },
   "Wanshi Pool": {
@@ -101,7 +101,7 @@
     "url": "https://wanshipool.com",
     "logo": "https://wanshipool.com/branding.png",
     "darkLogo": "https://wanshipool.com/branding_dark.png",
-    "frequency_plan": "CN470/CN470-510",
+    "frequencyPlan": "CN470/CN470-510",
     "status":"online"
   }
 }
