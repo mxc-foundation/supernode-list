@@ -29,7 +29,7 @@
     "logo": "https://eusn.matchx.io/branding.png",
     "darkLogo": "https://eusn.matchx.io/branding_dark.png",
     "frequencyPlan": "EU868/EU863-870",
-    "status": "maintenance"
+    "status": "online"
   },
   "DU IoT": {
     "region": "Asia",
@@ -45,7 +45,7 @@
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
     "frequencyPlan": "US915/US902-928",
-    "status":"maintenance"
+    "status":"online"
   },
   "Sejong Solutech": {
     "region": "Korea",
