@@ -13,7 +13,7 @@
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
     "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
+    "status":"maintenance"
   },
   "Huawei Tech": {
     "region": "China",
@@ -21,7 +21,7 @@
     "logo": "https://lora.hunanhuaweikeji.com/branding.png",
     "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
     "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
+    "status":"maintenance"
   },
   "MatchX": {
     "region": "Europe",
