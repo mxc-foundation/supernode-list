@@ -69,8 +69,7 @@
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.build.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild",
-    "status":"online",
-    "captchaDisabled":true
+    "status":"online"
   },
   "MXCbuild2": {
     "region": "Test",
