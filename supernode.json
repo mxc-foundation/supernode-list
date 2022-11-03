@@ -15,14 +15,6 @@
     "frequencyPlan": "CN470/CN470-510",
     "status":"online"
   },
-  "Huawei Tech": {
-    "region": "China",
-    "url": "https://lora.hunanhuaweikeji.com",
-    "logo": "https://lora.hunanhuaweikeji.com/branding.png",
-    "darkLogo": "https://lora.hunanhuaweikeji.com/branding_dark.png",
-    "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
-  },
   "MatchX": {
     "region": "Europe",
     "url": "https://eusn.matchx.io",
