@@ -70,7 +70,8 @@
     "logo": "https://build2.cloud.mxc.org/branding.png",
     "darkLogo": "https://build2.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild2",
-    "status":"online"
+    "status":"online",
+    "captchaDisabled":true
   },
   "MXCbuild3": {
     "region": "Test",
