@@ -71,7 +71,6 @@
     "darkLogo": "https://build2.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild2",
     "status":"online"
-    "captchaDisabled":true
   },
   "MXCbuild3": {
     "region": "Test",
