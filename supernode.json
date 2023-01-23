@@ -53,7 +53,8 @@
     "logo": "https://lora.test.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.test.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCtest",
-    "status":"online"
+    "status":"online",
+    "captchaDisabled":true
   },
   "MXCbuild": {
     "region": "Test",
