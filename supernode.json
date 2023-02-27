@@ -29,7 +29,7 @@
     "logo": "https://duiot.net/branding.png",
     "darkLogo": "https://duiot.net/branding_dark.png",
     "frequencyPlan": "AS923/AS923-1",
-    "status":"online"
+    "status":"maintenance"
   },
   "Huobi Pool": {
     "region": "America",
