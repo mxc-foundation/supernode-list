@@ -5,7 +5,7 @@
     "logo": "https://rosa-iot.org/branding.png",
     "darkLogo": "https://rosa-iot.org/branding_dark.png",
     "frequencyPlan": "KR920/KR920-923",
-    "status":"online"
+    "status":"maintenance"
   },
   "XY Pool": {
     "region": "China",
@@ -13,7 +13,7 @@
     "logo": "https://mxcxy.com/branding.png",
     "darkLogo": "https://mxcxy.com/branding_dark.png",
     "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
+    "status":"maintenance"
   },
   "MatchX": {
     "region": "Europe",
@@ -45,7 +45,7 @@
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
     "frequencyPlan": "KR920/KR920-923",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCtest": {
     "region": "Test",
@@ -96,6 +96,6 @@
     "logo": "https://wanshipool.com/branding.png",
     "darkLogo": "https://wanshipool.com/branding_dark.png",
     "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
+    "status":"maintenance"
   }
 }
