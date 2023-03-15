@@ -45,7 +45,7 @@
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
     "frequencyPlan": "KR920/KR920-923",
-    "status":"maintenance"
+    "status":"online"
   },
   "MXCtest": {
     "region": "Test",
