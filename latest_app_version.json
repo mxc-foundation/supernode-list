@@ -5,7 +5,7 @@
     "message": "A new version of DataDash is available now. We recommend you update to the latest version."
   },
   "latest_supported_app_version": {
-    "version": "4.0.0",
+    "version": "6.2.0",
     "message": "This version of the DataDash is no longer supported. Please update to the latest version."
   }
 }
