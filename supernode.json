@@ -7,14 +7,6 @@
     "frequencyPlan": "KR920/KR920-923",
     "status":"online"
   },
-  "XY Pool": {
-    "region": "China",
-    "url": "https://mxcxy.com",
-    "logo": "https://mxcxy.com/branding.png",
-    "darkLogo": "https://mxcxy.com/branding_dark.png",
-    "frequencyPlan": "CN470/CN470-510",
-    "status":"online"
-  },
   "MatchX": {
     "region": "Europe",
     "url": "https://eusn.matchx.io",
@@ -88,14 +80,6 @@
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCChina",
-    "status":"online"
-  },
-  "Wanshi Pool": {
-    "region": "China",
-    "url": "https://wanshipool.com",
-    "logo": "https://wanshipool.com/branding.png",
-    "darkLogo": "https://wanshipool.com/branding_dark.png",
-    "frequencyPlan": "CN470/CN470-510",
     "status":"online"
   }
 }
