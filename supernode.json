@@ -5,7 +5,7 @@
     "logo": "https://rosa-iot.org/branding.png",
     "darkLogo": "https://rosa-iot.org/branding_dark.png",
     "frequencyPlan": "KR920/KR920-923",
-    "status":"online"
+    "status":"maintenance"
   },
   "MatchX": {
     "region": "Europe",
@@ -13,7 +13,7 @@
     "logo": "https://eusn.matchx.io/branding.png",
     "darkLogo": "https://eusn.matchx.io/branding_dark.png",
     "frequencyPlan": "EU868/EU863-870",
-    "status": "online"
+    "status": "maintenance"
   },
   "DU IoT": {
     "region": "Asia",
@@ -21,7 +21,7 @@
     "logo": "https://duiot.net/branding.png",
     "darkLogo": "https://duiot.net/branding_dark.png",
     "frequencyPlan": "AS923/AS923-1",
-    "status":"online"
+    "status":"maintenance"
   },
   "Huobi Pool": {
     "region": "America",
@@ -29,7 +29,7 @@
     "logo": "https://ussn.matchx.io/branding.png",
     "darkLogo": "https://ussn.matchx.io/branding_dark.png",
     "frequencyPlan": "US915/US902-928",
-    "status":"online"
+    "status":"maintenance"
   },
   "Sejong Solutech": {
     "region": "Korea",
@@ -37,7 +37,7 @@
     "logo": "https://k-supernode.com/branding.png",
     "darkLogo": "https://k-supernode.com/branding_dark.png",
     "frequencyPlan": "KR920/KR920-923",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCtest": {
     "region": "Test",
@@ -45,7 +45,7 @@
     "logo": "https://lora.test.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.test.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCtest",
-    "status":"online",
+    "status":"maintenance",
     "captchaDisabled":true
   },
   "MXCbuild": {
@@ -54,7 +54,7 @@
     "logo": "https://lora.build.cloud.mxc.org/branding.png",
     "darkLogo": "https://lora.build.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild",
-    "status":"online",
+    "status":"maintenance",
     "captchaDisabled":true
   },
   "MXCbuild2": {
@@ -63,7 +63,7 @@
     "logo": "https://build2.cloud.mxc.org/branding.png",
     "darkLogo": "https://build2.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild2",
-    "status":"online",
+    "status":"maintenance",
     "captchaDisabled":true
   },
   "MXCbuild3": {
@@ -72,7 +72,7 @@
     "logo": "https://build3.cloud.mxc.org/branding.png",
     "darkLogo": "https://build3.cloud.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCbuild3",
-    "status":"online"
+    "status":"maintenance"
   },
   "MXCChina": {
     "region": "Test",
@@ -80,6 +80,6 @@
     "logo": "https://test.china.mxc.org/branding.png",
     "darkLogo": "https://test.china.mxc.org/branding_dark.png",
     "frequencyPlan": "Frequency MXCChina",
-    "status":"online"
+    "status":"maintenance"
   }
 }
